@@ -1,1 +1,5 @@
-fork.txt
+Please create a fork then add your name to this file on a new line.
+Then Commit
+Finally create a pull request with appropriate comment.
+###################################################################
+
